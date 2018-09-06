@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/ConnectToDataBase.iml" filepath="$PROJECT_DIR$/ConnectToDataBase.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/HomeWork5.iml" filepath="$PROJECT_DIR$/HomeWork5.iml" />
+>>>>>>> 876652b585a92a9185954b511030cce528bd12f0
     </modules>
   </component>
 </project>
